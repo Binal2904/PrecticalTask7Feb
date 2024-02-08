@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical</string>
+    <string name="back">back</string>
+    <string name="please_search_here">Please Search Here</string>
+    <string name="error_location_provider">Location Not Provided\n</string>
+    <string name="title_activity_maps_view">MapsViewActivity</string>
+</resources>
